@@ -1,0 +1,61 @@
+node:internal/modules/cjs/loader:390
+    throw e;
+    ^
+
+SyntaxError: Error parsing C:\Users\pol\source\repos\e-commerce\e-commerce\api\package.json: Unexpected string in JSON at position 138
+    at parse (<anonymous>)
+    at readPackage (node:internal/modules/cjs/loader:378:42)
+    at readPackageScope (node:internal/modules/cjs/loader:414:19)
+    at shouldUseESMLoader (node:internal/modules/run_main:47:15)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:24)
+    at node:internal/main/run_main_module:23:47 {
+  path: 'C:\\Users\\pol\\source\\repos\\e-commerce\\e-commerce\\api\\package.json'
+}
+
+Node.js v18.17.0
+node:internal/modules/cjs/loader:390
+    throw e;
+    ^
+
+SyntaxError: Error parsing C:\Users\pol\source\repos\e-commerce\e-commerce\api\package.json: Unexpected string in JSON at position 138
+    at parse (<anonymous>)
+    at readPackage (node:internal/modules/cjs/loader:378:42)
+    at readPackageScope (node:internal/modules/cjs/loader:414:19)
+    at shouldUseESMLoader (node:internal/modules/run_main:47:15)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:24)
+    at node:internal/main/run_main_module:23:47 {
+  path: 'C:\\Users\\pol\\source\\repos\\e-commerce\\e-commerce\\api\\package.json'
+}
+
+Node.js v18.17.0
+node:internal/modules/cjs/loader:390
+    throw e;
+    ^
+
+SyntaxError: Error parsing C:\Users\pol\source\repos\e-commerce\e-commerce\api\package.json: Unexpected string in JSON at position 138
+    at parse (<anonymous>)
+    at readPackage (node:internal/modules/cjs/loader:378:42)
+    at readPackageScope (node:internal/modules/cjs/loader:414:19)
+    at shouldUseESMLoader (node:internal/modules/run_main:47:15)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:24)
+    at node:internal/main/run_main_module:23:47 {
+  path: 'C:\\Users\\pol\\source\\repos\\e-commerce\\e-commerce\\api\\package.json'
+}
+
+Node.js v18.17.0
+node:internal/modules/cjs/loader:390
+    throw e;
+    ^
+
+SyntaxError: Error parsing C:\Users\pol\source\repos\e-commerce\e-commerce\api\package.json: Unexpected string in JSON at position 138
+    at parse (<anonymous>)
+    at readPackage (node:internal/modules/cjs/loader:378:42)
+    at readPackageScope (node:internal/modules/cjs/loader:414:19)
+    at shouldUseESMLoader (node:internal/modules/run_main:47:15)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:24)
+    at node:internal/main/run_main_module:23:47 {
+  path: 'C:\\Users\\pol\\source\\repos\\e-commerce\\e-commerce\\api\\package.json'
+}
+
+Node.js v18.17.0
+^C

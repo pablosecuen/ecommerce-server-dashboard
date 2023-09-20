@@ -1,0 +1,8 @@
+{
+    "verbose": false,
+    "quiet": true,
+    "watch": ["ser"],
+    "ext": "js,mjs,cjs,json",
+    "exec": "node serv/server.js"
+  }
+  
